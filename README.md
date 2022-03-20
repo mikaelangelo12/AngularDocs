@@ -2,10 +2,6 @@
     <img src="./img/logoAngular.png" height="80" width="300">
 </p>
 
-<p align="center">
-    <h2 align="center">AngularDocs</h2>
-</p>
-
 ## Introdução ao Docs Angular
 
 O Angular tem sua estrutura baseada em componentes e construída em TypeScript onde facilita a criação de uma Single Page Applications e além de uma grande coleção de bibliotecas bem integradas que cobrem uma ampla variedade de recusos, incluindo roteamento, gerenciamento de formulários, comunicação cliente-servidor e muito mais.
