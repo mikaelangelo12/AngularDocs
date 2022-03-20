@@ -10,6 +10,7 @@
 
 O Angular tem sua estrutura baseada em componentes e construída em TypeScript onde facilita a criação de uma Single Page Applications e além de uma grande coleção de bibliotecas bem integradas que cobrem uma ampla variedade de recusos, incluindo roteamento, gerenciamento de formulários, comunicação cliente-servidor e muito mais.
 </br>
+</br>
 O Angular foi projetado para tornar a atualização o mais simples possível, portanto, aproveite os desenvolvimentos mais recentes com o mínimo de esforço.
 
 ## Como contribuir?
