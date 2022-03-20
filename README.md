@@ -6,11 +6,6 @@
     <h2 align="center">AngularDocs</h2>
 </p>
 
-<p align="center">
-    <a href="docs/01-introducao/sobre-o-neovim.md"><< <strong>Iniciar Docs</strong> >></a>
-</p>
-
-
 ## Como contribuir?
 
 Contribuições fazem com que a comunidade Open Source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas
