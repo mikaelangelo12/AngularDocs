@@ -20,9 +20,12 @@ O Angular foi projetado para tornar a atualização o mais simples possível, po
 
 >AngularDocs em en_us
 
-## Como contribuir?
+</br>
+</br>
+<hr>
 
-Contribuições fazem com que a comunidade Open Source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas
+## Como contribuir?
+#### Contribuições fazem com que a comunidade Open Source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas
 
 1. Realize um Fork do projeto
 2. Crie um branch com a nova feature ( git checkout -b feature/featureBraba )
