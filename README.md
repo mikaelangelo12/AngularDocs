@@ -33,4 +33,5 @@ O Angular foi projetado para tornar a atualização o mais simples possível, po
 4. Realize o Push no Branch ( git push origin feature/featureBraba )
 5. Abra um Pull Request
 
+<hr>
 ##### Fonte => <a href="https://angular.io">Angular.io</a>
