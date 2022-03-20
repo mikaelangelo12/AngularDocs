@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./img/logoAngular.png" height="50" width="200">
+    <img src="./img/logoAngular.png" height="80" width="300">
 </p>
 
 <p align="center">
