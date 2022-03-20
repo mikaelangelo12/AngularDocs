@@ -19,4 +19,6 @@ Contribuições fazem com que a comunidade Open Source seja um lugar incrível p
 4. Realize o Push no Branch ( git push origin feature/featureBraba )
 5. Abra um Pull Request
 
+![angular-banner](https://user-images.githubusercontent.com/31498718/159153275-1ee08c85-606b-4c6f-99d0-7482c37f6f68.png)
+
 ##### Fonte => <a href="https://angular.io">Angular.io</a>
