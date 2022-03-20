@@ -15,6 +15,11 @@ O Angular tem sua estrutura baseada em componentes e construída em TypeScript o
 </br>
 O Angular foi projetado para tornar a atualização o mais simples possível, portanto, aproveite os desenvolvimentos mais recentes com o mínimo de esforço.
 
+## Seções
+>AngularDocs em pt_BR </br>
+
+>AngularDocs em en_us
+
 ## Como contribuir?
 
 Contribuições fazem com que a comunidade Open Source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições são extremamente apreciadas
