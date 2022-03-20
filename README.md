@@ -8,7 +8,7 @@
 
 ## Introdução ao Docs Angular
 
-O Angular é uma plataforma que foi construida utilizando as três linguagens TypeScript, Html e CSS, mas o CSS pode incluir todas suas variantes como Sass e etc..
+O Angular é uma plataforma que foi construida utilizando as três linguagens TypeScript, Html e CSS.
 O Angular tem sua estrutura baseada em componentes onde facilita a criação de uma Single Page Applications e além de uma grande coleção de bibliotecas bem integradas que cobrem uma ampla variedade de recusos, incluindo roteamento, gerenciamento de formulários, comunicação cliente-servidor e muito mais.
 
 ## Como contribuir?
